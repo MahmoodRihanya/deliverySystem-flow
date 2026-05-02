@@ -110,19 +110,32 @@ consisting of three mobile apps, a restaurant owner app, and an admin web dashbo
 |-----------------|---|-------------|---|----------------|
 | <img src="screens/customer/delivered_orders.jpg" width="220"/> |➡️ | <img src="screens/customer/restaurant_rating.jpg" width="220"/> | ➡️ | <img src="screens/customer/driver_rating.jpg" width="220"/> | 
 
+
+---
+### Addresses
+| my | 
+|------|
+| <img src="screens/customer/driver_rating.jpg" width="220"/> | 
+
+
+---
+### Favorites
+| Restaurants |  → | Addresses | → | Meals |
+|-----------------|---|-------------|---|----------------|
+| <img src="screens/customer/favorite_restaurante.jpg" width="220"/> |➡️ | <img src="screens/customer/favorite_addresses.jpg" width="220"/> | ➡️ | <img src="screens/customer/favorite_meals.jpg" width="220"/> | 
+
 ---
 
 ### 👤 Profile & Settings
 
-| Profile | → | My Addresses | → | Favorite Addresses |
+| Profile | → | Help & Support |
 |---------|---|--------------|---|-------------------|
-| <img src="screens/customer/profile.jpg" width="220"/> | ➡️ | <img src="screens/customer/my_addresses.jpg" width="220"/> | ➡️ | <img src="screens/customer/favorite_addresses.jpg" width="220"/> |
-
-| Favorite Restaurants | | Help & Support |
-|---------------------|---|----------------|
-| <img src="screens/customer/favorite_restaurante.jpg" width="220"/> | | <img src="screens/customer/Help_and_support.jpg" width="220"/> |
+| <img src="screens/customer/profile.jpg" width="220"/> | ➡️ | <img src="screens/customer/Help_and_support.jpg" width="220"/> |
 
 ---
+
+
+
 
 ## 🚗 Driver App Flow
 
