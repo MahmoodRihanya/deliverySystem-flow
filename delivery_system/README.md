@@ -10,7 +10,7 @@ consisting of three mobile apps, a restaurant owner app, and an admin web dashbo
 | App | Platform | Description |
 |-----|----------|-------------|
 | 🛒 Customer App | Flutter Mobile | Browse restaurants, place orders, track delivery in real-time |
-| 🚗 Driver App | Flutter Mobile | Accept orders, navigate to customer, confirm delivery |
+| 🚗 Driver App | Flutter Mobile | Accept orders, go to customer, confirm delivery |
 | 🍽️ Restaurant Owner App | Flutter Mobile | Manage menu, meals, offers, and incoming orders |
 | 🖥️ Admin Dashboard | Flutter Web | Manage users, restaurants, drivers, categories, and analytics |
 
@@ -100,14 +100,15 @@ consisting of three mobile apps, a restaurant owner app, and an admin web dashbo
 ---
 
 ### 📦 Orders & Tracking
+| Delivered Orders | → | Rate Driver | → | Rate Restaurant |
+|-----------------|---|-------------|---|----------------|
+| <img src="screens/customer/delivered_orders.jpg" width="220"/> | ➡️ | <img src="screens/customer/driver_rating.jpg" width="220"/> | ➡️ | <img src="screens/customer/restaurant_rating.jpg" width="220"/> |
+
 
 | Active Orders | → | Order Details | → | Track Driver |
 |--------------|---|---------------|---|--------------|
 | <img src="screens/customer/active_orders.jpg" width="220"/> | ➡️ | <img src="screens/customer/order_details.jpg" width="220"/> | ➡️ | <img src="screens/customer/location_driver.jpg" width="220"/> |
 
-| Delivered Orders | → | Rate Driver | → | Rate Restaurant |
-|-----------------|---|-------------|---|----------------|
-| <img src="screens/customer/delivered_orders.jpg" width="220"/> | ➡️ | <img src="screens/customer/driver_rating.jpg" width="220"/> | ➡️ | <img src="screens/customer/restaurant_rating.jpg" width="220"/> |
 
 ---
 
