@@ -114,7 +114,7 @@ consisting of three mobile apps, a restaurant owner app, and an admin web dashbo
 ---
 ### Addresses
 | My Addresses |  → | New Address | → | New Address Details |
-|------|
+|-----------------|---|-------------|---|----------------|
 | <img src="screens/customer/my_addresses.jpg" width="220"/> |➡️ | <img src="screens/customer/input_address_location.jpg" width="220"/> | ➡️ | <img src="screens/customer/address_datails_bottom_sheet.jpg" width="220"/> | 
 
 
