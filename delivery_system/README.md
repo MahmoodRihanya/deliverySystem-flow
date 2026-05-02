@@ -117,6 +117,11 @@ consisting of three mobile apps, a restaurant owner app, and an admin web dashbo
 |-----------------|---|-------------|---|----------------|
 | <img src="screens/customer/my_addresses.jpg" width="220"/> |➡️ | <img src="screens/customer/input_address_location.jpg" width="220"/> | ➡️ | <img src="screens/customer/address_datails_bottom_sheet.jpg" width="220"/> | 
 
+| My Addresses |  → | Address Location | 
+|-----------------|---|-------------|
+| <img src="screens/customer/my_addresses.jpg" width="220"/> |➡️ | <img src="screens/customer/address_location_on_map.jpg" width="220"/>
+
+
 
 ---
 ### Favorites
