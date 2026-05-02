@@ -272,4 +272,4 @@ consisting of three mobile apps, a restaurant owner app, and an admin web dashbo
 
 ## 👨‍💻 Developer
 
-Built with ❤️ using Flutter & Node.js
+Built by engineer Mahmood Rihanya  using Flutter & Node.js
