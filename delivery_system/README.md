@@ -113,9 +113,9 @@ consisting of three mobile apps, a restaurant owner app, and an admin web dashbo
 
 ---
 ### Addresses
-| my | 
+| My Addresses |  → | New Address | → | New Address Details |
 |------|
-| <img src="screens/customer/driver_rating.jpg" width="220"/> | 
+| <img src="screens/customer/my_addresses.jpg" width="220"/> |➡️ | <img src="screens/customer/input_address_location.jpg" width="220"/> | ➡️ | <img src="screens/customer/address_datails_bottom_sheet.jpg" width="220"/> | 
 
 
 ---
@@ -129,7 +129,7 @@ consisting of three mobile apps, a restaurant owner app, and an admin web dashbo
 ### 👤 Profile & Settings
 
 | Profile | → | Help & Support |
-|---------|---|--------------|---|-------------------|
+|---------|---|--------------|
 | <img src="screens/customer/profile.jpg" width="220"/> | ➡️ | <img src="screens/customer/Help_and_support.jpg" width="220"/> |
 
 ---
