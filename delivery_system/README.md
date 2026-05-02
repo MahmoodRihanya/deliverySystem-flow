@@ -178,16 +178,16 @@ consisting of three mobile apps, a restaurant owner app, and an admin web dashbo
 
 ### 📋 Register Restaurant
 
-| Register | → | Restaurant Info | → | Restaurant Location |
-|------|---|--------|---|--------------|
-| <img src="screens/owner/register_restaurante_info.jpg" width="220"/> | ➡️ | <img src="screens/owner/register_restaurante_info.jpg" width="220"/> |  ➡️ | <img src="screens/owner/map.jpg" width="220"/> | 
+| Register | →  | Restaurant Location |
+|------|---|--------------|
+| <img src="screens/owner/register_restaurante_info.jpg" width="220"/> | ➡️ | <img src="screens/owner/map.jpg" width="220"/> | 
 
 ---
 ### Restaurant Info
 
 | Home | → | Restaurant Info | → |Restaurant Info (Scrolled) |
 |------|---|--------|---|--------------|
-| <img src="screens/owner/home.jpg" width="220"/> | ➡️ | <img src="screens/owner/restaurant_info1.jpg" width="220"/> | ➡️ | <img src="screens/owner/restaurante_info2.jpg" width="220"/> |
+| <img src="screens/owner/home.jpg" width="220"/> | ➡️ | <img src="screens/owner/restaurant-info1.jpg" width="220"/> | ➡️ | <img src="screens/owner/restaurante_info2.jpg" width="220"/> |
 
 | Order Details | 
 |--------------|
